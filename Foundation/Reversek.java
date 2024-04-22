@@ -2,7 +2,7 @@ package Foundation;
 
 import java.util.Scanner;
 
-public class Reverse {
+public class Reversek {
 
     public static void rotatearr(int[] arr, int i, int j) {
 
