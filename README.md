@@ -1,12 +1,11 @@
-# 100 Days of DSA Coding with Design
+# 100 Days of DSA Coding
 
-Welcome to the "100 Days of DSA Coding with Design" challenge! This project helps you enhance your Data Structures and Algorithms (DSA) skills through consistent practice and thoughtful design.
+Welcome to the "100 Days of DSA Coding " challenge! This project helps you enhance your Data Structures and Algorithms (DSA) skills through consistent practice and thoughtful design.
 
 ## Goals
 
 - Improve problem-solving in DSA
 - Develop consistent coding habits
-- Apply design principles to your code
 
 
 ## How It Works
