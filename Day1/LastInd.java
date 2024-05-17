@@ -8,7 +8,7 @@ public class LastInd {
 
         int k = scn.nextInt();
         int li = -1;
-        int arr[] = { 10, 20, 20, 20, 20, 20, 20, 80 };
+        int arr[] = { 10, 20, 20, 20, 2 0, 20, 20, 80 };
 
         int low = 0;
         int high = arr.length - 1;
