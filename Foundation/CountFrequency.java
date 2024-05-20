@@ -4,7 +4,7 @@ import java.util.*;
 
 public class CountFrequency {
   public static void main(String[] args) {
-    Integer arr[] = { 10, 5, 10, 15, 10, 1 };
+    Integer arr[] = { 10,10,10 };
 
     Arrays.sort(arr, Collections.reverseOrder());
 
