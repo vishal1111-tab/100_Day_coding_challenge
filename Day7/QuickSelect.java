@@ -29,15 +29,15 @@ public class QuickSelect {
 
     public static int QuickSele(int arr[], int lo, int hi, int k) {
         int pivot = arr[hi];
-        int pi = Partition(arr, pivot - 1);
-        int index = 0;
+        int pi = Partition(arr, pivot);
+      
 
         if (k > pi) {
             return QuickSele(arr, pi + 1, hi, k);
         } else if (k < pi) {
             return QuickSele(arr, lo, pi - 1, k);
         } else {
-            return arr[pi]
+            return arr[pi];
         }
 
     }

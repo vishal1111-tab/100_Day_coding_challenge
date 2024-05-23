@@ -1,6 +1,7 @@
 package Day7;
 
-public class Partition {
+public class SortZeroOneTwo {
+
     public static void Swap(int arr[], int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
@@ -8,27 +9,32 @@ public class Partition {
     }
 
     public static void main(String args[]) {
-        // int arr[] = { 7, 9, 4, 8, 3, 6, 2, 1, 5};
-
-        int arr[] = { 0, 1, 1, 1, 1, 0, 0 , 0  , 1};
+        int arr[] = { 0, 1, 0, 1, 0, 2, 0, 0, 1, 2 };
 
         int i = 0;
         int j = 0;
-        int pivot = 0;
 
-        while (i < arr.length) {
-            if (arr[i] > pivot) {
+        int k = arr.length - 1;
+
+        while (i <= k) {
+            if (arr[i] == 1) {
                 i++;
-            } else {
+
+            } else if (arr[i] == 0) {
                 Swap(arr, i, j);
                 i++;
                 j++;
+            } else if (arr[i] == 2) {
+                Swap(arr, i, k);
+                k--;
+            } else {
+                System.out.println("Invalid input in arr");
             }
         }
 
         for (int res : arr) {
             System.out.println(res);
         }
-    }
 
+    }
 }
