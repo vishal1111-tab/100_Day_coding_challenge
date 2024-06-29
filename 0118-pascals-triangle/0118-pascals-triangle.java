@@ -1,25 +1,24 @@
 class Solution {
 
-    public static int ncr(int n , int r){
-        int res = 1;
-
-        for(int i=0; i<r; i++){
-            res = res * (n-i);
-            res = res / (i+1);
+    public static List<Integer> ncr(int n){
+        List <Integer> temp = new ArrayList<>();
+        int ans = 1;
+        temp.add(ans);
+        for(int i=1; i<n; i++){
+          ans = ans * (n-i);
+          ans = ans / (i);
+          temp.add(ans);
+        }
+        return temp;
+        
+    }
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> res = new ArrayList<>();
+        for(int i=1; i<=numRows; i++){
+             res.add(ncr(i));
         }
         return res;
-    }
-    public List<List<Integer>> generate(int n) {
-           
-          List<List <Integer>> ans = new ArrayList<>();
-           for(int i=1; i<=n; i++){
-            List <Integer> temp =new  ArrayList<>();
-             for(int j=1; j<=i; j++){
-               temp.add(ncr(i-1,j-1));
-             }
-             ans.add(temp);
-          }
-          return ans;
-
+       
+        
     }
 }
