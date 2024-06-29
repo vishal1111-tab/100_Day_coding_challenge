@@ -23,8 +23,6 @@ class Sorted_Array {
 class Solution {
     int transitionPoint(int arr[], int n) {
         // code here
-        
-        
         int lo = 0;
         int hi = arr.length-1;
         
