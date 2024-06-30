@@ -53,6 +53,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -65,5 +66,6 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
