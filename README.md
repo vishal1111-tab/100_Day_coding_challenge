@@ -59,16 +59,19 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +81,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
