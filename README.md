@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
