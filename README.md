@@ -60,6 +60,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1646-kth-missing-positive-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -85,6 +86,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1646-kth-missing-positive-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
