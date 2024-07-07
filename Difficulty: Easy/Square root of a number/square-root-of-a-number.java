@@ -28,8 +28,21 @@ class Solution
 {
      long floorSqrt(long x)
 	 {
-		// Your code here
-	long i=	(int)Math.sqrt(x);
-	return i;
+    long lo =1; long hi = x;
+        long fans = 0;
+        
+        while(lo <=hi){
+          long mid = lo + (hi-lo)/2;
+         
+           long ans = mid*mid;
+           if(ans>x){
+            hi = mid-1;
+           }
+           else if(ans<=x){
+            fans = mid;
+            lo = mid +1;
+           }
+        }
+        return fans;
 	 }
 }
