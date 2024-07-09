@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +86,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
