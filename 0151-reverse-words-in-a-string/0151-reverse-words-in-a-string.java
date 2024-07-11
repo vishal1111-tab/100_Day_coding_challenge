@@ -1,23 +1,14 @@
 class Solution {
-    public String reverseWords(String s) {
-       String str = s.trim();
-        String arr [] = str.split(" ");
-        int lo =0; int hi = arr.length-1;
-        while(lo<=hi){
-            String temp = arr[lo];
-            arr[lo] = arr[hi];
-            arr[hi] = temp;
-            lo++;
-            hi--;
-
-        }
-        String ans = "";
-        for(String x : arr){
-            ans = ans + x + " ";
-        }
-       ans = ans.replaceAll("( )+", " ");
-       return ans.trim();
-        
+    public String reverseWords(String str) {
+       str = str.trim();
+       str = str.replaceAll("( )+", " ");
+       String arr [] = str.split(" ");
+       String ans = "";
+       for(int i = arr.length-1; i>0; i--){
+         ans+=arr[i] + " ";
+       }
+       return ans + arr[0];
+  
         
     }
 }
