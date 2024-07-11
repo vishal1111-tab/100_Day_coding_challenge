@@ -111,6 +111,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
+| [3468-find-the-encrypted-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
