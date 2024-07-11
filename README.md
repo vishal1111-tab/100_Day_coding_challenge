@@ -111,11 +111,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3468-find-the-encrypted-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
