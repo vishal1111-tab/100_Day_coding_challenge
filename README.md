@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0151-reverse-words-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3468-find-the-encrypted-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/3468-find-the-encrypted-string) |
@@ -121,6 +122,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
