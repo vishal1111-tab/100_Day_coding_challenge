@@ -115,12 +115,14 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3468-find-the-encrypted-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0410-split-array-largest-sum) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
