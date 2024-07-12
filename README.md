@@ -108,6 +108,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0069-sqrtx) |
+| [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | [1078-remove-outermost-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
 | [3468-find-the-encrypted-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
@@ -134,6 +136,7 @@ Happy Coding! 🚀
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0410-split-array-largest-sum) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
