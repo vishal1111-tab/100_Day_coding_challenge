@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -173,4 +174,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
