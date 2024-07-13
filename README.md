@@ -105,17 +105,20 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0151-reverse-words-in-a-string) |
