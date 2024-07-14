@@ -143,6 +143,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
