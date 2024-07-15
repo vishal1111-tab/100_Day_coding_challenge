@@ -1,28 +1,36 @@
 class Solution {
     public int divide(int dividend, int divisor) {
-        if (dividend == Integer.MIN_VALUE && divisor == -1) {
-            return Integer.MAX_VALUE;
-        }
-        boolean isNegative = (dividend < 0) ^ (divisor < 0);
+        if (dividend == divisor) return 1;
 
-      
+        boolean sign = true;
+
+        if (dividend <= 0 && divisor > 0) sign = false;
+        if (dividend >= 0 && divisor < 0) sign = false;
+
         long n = Math.abs((long) dividend);
         long m = Math.abs((long) divisor);
-        
-        int result = 0;
 
+        long ans = 0;
         while (n >= m) {
-            long temp = m, multiple = 1;
-            
-            while (n >= (temp << 1)) {
-                temp <<= 1;
-                multiple <<= 1;
+            int count = 0;
+
+            while ((m << (count + 1)) <= n) {
+                count++;
             }
-            
-            n -= temp;
-            result += multiple;
+            ans += (1L << count);
+            n -= (m << count);
         }
 
-        return isNegative ? -result : result;
+        if (ans > (1L << 31) - 1 && sign) {
+            return Integer.MAX_VALUE;
+        }
+        if (ans < -(1L << 31) && sign) {
+            return Integer.MIN_VALUE;
+        }
+
+        if (sign) {
+            return (int) ans;
+        }
+        return (int) -ans;
     }
 }
