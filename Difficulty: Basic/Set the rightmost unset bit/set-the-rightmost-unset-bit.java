@@ -25,23 +25,25 @@ class Solution {
     static int setBit(int n) {
         // code here
          int countZero = 0;
-        int i = 0;
-        int ans = 0;
+        // int i = 0;
+        // int ans = 0;
 
-        while (n != 0) {
-            int rem = n % 2;
-            if (countZero == 0 && rem == 0) {
-                ans = ans + (1<<i);
-                countZero++;
-            } else {
-                ans = ans + (rem * (1<<i));
-            }
-            i++;
-            n = n / 2;
-        }
-        if (countZero == 0) {
-            ans = ans + (1<<i);
-        }
-        return ans;
+        // while (n != 0) {
+        //     int rem = n % 2;
+        //     if (countZero == 0 && rem == 0) {
+        //         ans = ans + (1<<i);
+        //         countZero++;
+        //     } else {
+        //         ans = ans + (rem * (1<<i));
+        //     }
+        //     i++;
+        //     n = n / 2;
+        // }
+        // if (countZero == 0) {
+        //     ans = ans + (1<<i);
+        // }
+        // return ans;
+        
+        return (n|(n+1));
     }
 }
