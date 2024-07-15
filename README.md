@@ -113,6 +113,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0338-counting-bits) |
 ## Recursion
