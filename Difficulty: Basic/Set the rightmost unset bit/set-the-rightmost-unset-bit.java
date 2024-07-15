@@ -31,16 +31,16 @@ class Solution {
         while (n != 0) {
             int rem = n % 2;
             if (countZero == 0 && rem == 0) {
-                ans = ans + (int)Math.pow(2, i);
+                ans = ans + (1<<i);
                 countZero++;
             } else {
-                ans = ans + (rem * (int)Math.pow(2, i));
+                ans = ans + (rem * (1<<i));
             }
             i++;
             n = n / 2;
         }
         if (countZero == 0) {
-            ans = ans + (int)Math.pow(2, i);
+            ans = ans + (1<<i);
         }
         return ans;
     }
