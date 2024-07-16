@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0162-find-peak-element) |
@@ -181,6 +182,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0338-counting-bits) |
@@ -189,4 +191,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
