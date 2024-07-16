@@ -60,6 +60,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -119,6 +120,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -197,4 +199,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
