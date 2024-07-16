@@ -1,17 +1,12 @@
 class Solution {
-   
     public int minBitFlips(int start, int goal) {
-        int count =0;
-        int n = start^goal;
-        System.out.println(n);
-       while(n!=0){
-        System.out.println(n);
-         if(n % 2 == 1){
-            count ++;
-         }
-         n = n/2;
-       }
-       return count;
-
+        int ans=start ^ goal;
+        int count=0;
+        for(int i=0;i<32;i++){
+            if ((ans & (1 << i)) != 0) {
+                count++;
+            }
+        }
+        return count;
     }
 }
