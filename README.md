@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0162-find-peak-element) |
@@ -78,6 +79,7 @@ Happy Coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishal1111-tab/100_Day_coding_challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
